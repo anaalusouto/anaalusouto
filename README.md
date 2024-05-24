@@ -4,19 +4,19 @@
         <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
             <div style="margin: 10px; padding: 20px; border-radius: 10px; background-color: #eaeaea; width: 100px; transition: transform 0.3s;">
                 <i class="fas fa-laptop-code" style="font-size: 40px; margin-bottom: 10px;"></i>
-                <p style="margin: 0;">Front-end</p>
+                        <p style="margin: 0;">Front-end</p>
             </div>
             <div style="margin: 10px; padding: 20px; border-radius: 10px; background-color: #eaeaea; width: 100px; transition: transform 0.3s;">
                 <i class="fas fa-server" style="font-size: 40px; margin-bottom: 10px;"></i>
-                <p style="margin: 0;">Back-end</p>
+                        <p style="margin: 0;">Back-end</p>
             </div>
             <div style="margin: 10px; padding: 20px; border-radius: 10px; background-color: #eaeaea; width: 100px; transition: transform 0.3s;">
                 <i class="fab fa-java" style="font-size: 40px; margin-bottom: 10px;"></i>
-                <p style="margin: 0;">Java</p>
+                        <p style="margin: 0;">Java</p>
             </div>
             <div style="margin: 10px; padding: 20px; border-radius: 10px; background-color: #eaeaea; width: 100px; transition: transform 0.3s;">
                 <i class="fas fa-code" style="font-size: 40px; margin-bottom: 10px;"></i>
-                <p style="margin: 0;">C</p>
+                        <p style="margin: 0;">C</p>
             </div>
         </div>
     </div>
