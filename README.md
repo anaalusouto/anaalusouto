@@ -10,19 +10,9 @@ Sou desenvolvedora Python focada em backend e infraestrutura. Atualmente, aplico
 
 | Backend & Frameworks | Banco de Dados | DevOps & Cloud |
 | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=python,django" width="90"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql" width="90"/> | <img src="https://skillicons.dev/icons?i=aws,git" width="90"/> |
+| <img src="https://skillicons.dev/icons?i=python,django,flask" width="180"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql" width="120"/> | <img src="https://skillicons.dev/icons?i=aws,git" width="120"/> |
 
 <br>
-
-### 📈 Minha Atividade
-
-<div align="left">
-  <a href="https://github.com/anaalusouto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaalusouto&show_icons=true&theme=tokyonight&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaalusouto&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
-
 <br>
 
 ### 💬 Contato
