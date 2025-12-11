@@ -2,8 +2,11 @@
 
 *Engenharia de Software e Ciência de Dados na Amazônia.*
 
-Sou desenvolvedora Python focada em backend e infraestrutura. Atualmente, aplico minhas habilidades no **Museu Paraense Emílio Goeldi (MPEG)**, criando sistemas que auxiliam na gestão e pesquisa da biodiversidade amazônica.
+🔭 **Atualmente no Museu Paraense Emílio Goeldi (MPEG):**
+Atuo em um projeto voltado à padronização e aplicação dos **princípios FAIR** em dados de ocorrência de espécies florísticas de valor bioeconômico na **APA Ilha do Combu**.
 
+🌱 **Impacto da Pesquisa:**
+O trabalho busca fornecer a **Ciência Aberta**, promover a valorização da biodiversidade amazônica e apoiar iniciativas de **bioeconomia sustentável** por meio da gestão e interoperabilidade de dados científicos.
 <br>
 
 ### 🛠️ Stack Principal
@@ -11,12 +14,9 @@ Sou desenvolvedora Python focada em backend e infraestrutura. Atualmente, aplico
 | Backend & Frameworks | Banco de Dados | DevOps & Cloud |
 | :--- | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=python,django,flask" width="180"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql" width="120"/> | <img src="https://skillicons.dev/icons?i=aws,git" width="120"/> |
-
-<br>
 <br>
 
 ### 💬 Contato
-
 <div align="left">
   <a href="https://www.linkedin.com/in/analuizasouto/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
