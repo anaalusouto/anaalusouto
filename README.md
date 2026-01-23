@@ -1,27 +1,28 @@
 # 👩‍💻 Ana Luiza | Python Developer
 
-*Engenharia de Software e Ciência de Dados na Amazônia.*
+*Software Engineering & Data Science in the Amazon Rainforest.*
 
-🔭 **Atualmente no Museu Paraense Emílio Goeldi (MPEG):**
-Atuo em um projeto voltado à padronização e aplicação dos **princípios FAIR** em dados de ocorrência de espécies florísticas de valor bioeconômico na **APA Ilha do Combu**.
+🔭 **Currently at the Emílio Goeldi Paraense Museum (MPEG):**
 
-🌱 **Impacto da Pesquisa:**
-O trabalho busca fornecer a **Ciência Aberta**, promover a valorização da biodiversidade amazônica e apoiar iniciativas de **bioeconomia sustentável** por meio da gestão e interoperabilidade de dados científicos.
+I am working on a strategic project focused on the standardization and implementation of **FAIR principles** (Findable, Accessible, Interoperable, and Reusable) for species occurrence data of bioeconomic value in the **Combu Island Environmental Protection Area (APA)**.
+
+🌱 **Research Impact:**
+
+My work advances **Open Science** by promoting the valuation of Amazonian biodiversity and supporting **sustainable bioeconomy** initiatives through advanced data management and systems interoperability.
 <br>
 
-### 🛠️ Stack Principal
+🛠️ **Core Tech Stack**
+* **Programming & Databases:** Python (Advanced), SQL, REST APIs.
+* **Data Science & Analysis:** Pandas, NumPy, Scikit-learn, Plotly.
+* **Geospatial Intelligence:** Folium, Geopandas, Strategic Mapping.
+* **Data Governance:** FAIR Principles, Open Science, Biodiversity Informatics.
+* **Web Frameworks:** Streamlit (High-Fidelity Dashboards).
 
-| Backend & Frameworks | Banco de Dados | DevOps & Cloud |
+
+### 📫 Connect with me:
+[LinkedIn](SEU_LINK_AQUI) | [Email](mailto:SEU_EMAIL_AQUI)
+| Backend & Frameworks | Database | DevOps & Cloud |
 | :--- | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=python,django,flask" width="180"/> | <img src="https://skillicons.dev/icons?i=postgres,mysql" width="120"/> | <img src="https://skillicons.dev/icons?i=aws,git" width="120"/> |
 <br>
 
-### 💬 Contato
-<div align="left">
-  <a href="https://www.linkedin.com/in/analuizasouto/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:anaalusouto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
