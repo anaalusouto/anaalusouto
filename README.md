@@ -1,6 +1,6 @@
 # 👩‍💻 Ana Luiza | Python Developer
 
-*Software Engineering & Data Science in the Amazon Rainforest.*
+*Data Visualization Engineer*
 
 🔭 **Currently at the Emílio Goeldi Paraense Museum (MPEG):**
 
