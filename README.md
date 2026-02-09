@@ -1,6 +1,6 @@
 # Python Developer | Data Visualization Engineer
 
-Computer Science student in the 7th semester, passionate about bridging the gap between technology and nature. Currently working as a Data Visualization Engineer on the Munguba Project, building tools with Python and Leaflet to promote the Amazonian Bioeconomy and Open Science.
+Computer Science student in the 7th semester, passionate about bridging the gap between technology and nature. Currently working as a Data Visualization Engineer on the Munguba Project, building tools with Python and Leaflet to promote the Amazon Bioeconomy and Open Science.
 
 | Backend & Frameworks | Database | DevOps & Cloud |
 | :--- | :--- | :--- |
