@@ -7,7 +7,7 @@
 
 ### 🎀 ˚. ݁₊ About Me
 
-✨ **Computer Science student in the 7th semester**, passionate about the intersection of biology and technology.  
+✨ **Computer Science student in the 8th semester**, passionate about the intersection of biology and technology.  
 🌿 Currently exploring **Bioinformatics** through the **Munguba Project**, analyzing and mapping biodiversity data.  
 🔮 Building tools with **Python** and **R** :: ─ ۶ৎ
 
