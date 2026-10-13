@@ -1,15 +1,15 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/94/a5/d8/94a5d89ce66e921dcd3de10bc42b2bc3.gif" width="300" alt="Soft pink aesthetic anime" />
 
-  # 🧬 Bioinformatics Developer ⟡ ݁₊ .
+  # 🧬 Fullstack Developer ⟡ ݁₊ .
 
 
 
 ### 🎀 ˚. ݁₊ About Me
 
-✨ **Computer Science student in the 8th semester**, passionate about the intersection of biology and technology.  
-🌿 Currently exploring **Bioinformatics** through the **Munguba Project**, analyzing and mapping biodiversity data.  
-🔮 Building tools with **Python** and **R** :: ─ ۶ৎ
+✨ **Computer Science student in the 8th semester**, passionate about the intersection of bioeconomy and technology.  
+🌿 Currently exploring **Bioeconomy** through the **Munguba Project**, analyzing and mapping biodiversity data.  
+🔮 Building tools with **Python** :: ─ ۶ৎ
 
 ---
 
